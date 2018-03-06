@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+/Users/mac/Workspaces/Spring/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3370744600.index
+1356026905.index
+1909259426.index
+606176354.index
+1561696309.index

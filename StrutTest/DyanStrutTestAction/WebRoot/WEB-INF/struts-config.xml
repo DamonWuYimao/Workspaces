@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<!DOCTYPE struts-config PUBLIC
+          "-//Apache Software Foundation//DTD Struts Configuration 1.2//EN"
+          "http://jakarta.apache.org/struts/dtds/struts-config_1_2.dtd">
+
+
+
+
+<struts-config>
+   
+   <form-beans>
+     <form-bean name="dynaform" type="org.apache.struts.action.DynaActionForm">
+     <form-property name="username" type="java.lang.String"></form-property>
+     <form-property name="age" type="java.lang.Integer"></form-property>
+     </form-bean>
+   </form-beans>
+   <action-mappings>
+     <action path="/dynaform"
+             type="org.test.DynaStrut.DynaActionFormTest"
+             name="dynaform"
+             scope="request">
+             <forward name="success" path="/dyna_success.jsp"/>
+             <forward name="error" path="/dyna_error.jsp"/>
+             </action>
+             
+   </action-mappings>
+</struts-config>
+

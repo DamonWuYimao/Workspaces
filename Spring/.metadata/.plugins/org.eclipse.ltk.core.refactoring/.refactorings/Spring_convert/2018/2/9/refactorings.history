@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;applicationContext-common.xml&apos; to &apos;Spring_autowire_byname/src&apos;&#x0A;- Original project: &apos;Spring_convert&apos;&#x0A;- Destination element: &apos;Spring_autowire_byname/src&apos;&#x0A;- Original element: &apos;applicationContext-common.xml&apos;&#x0A;- Update references to refactored element" description="Move file" destination="=Spring_autowire_byname/src" element1="src/applicationContext-common.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1519627428366" units="0" version="1.0"/>
+</session>

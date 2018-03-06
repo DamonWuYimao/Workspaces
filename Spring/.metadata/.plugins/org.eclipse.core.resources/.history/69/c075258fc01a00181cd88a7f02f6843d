@@ -1,0 +1,5 @@
+package org.test.auto;
+
+public class AutoWireTest {
+
+}

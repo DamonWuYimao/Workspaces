@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+/Users/mac/Workspaces/Spring/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/284387840.index
+/Spring_first/src
+/Users/mac/Workspaces/Spring/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/232633863.index
+/Spring_convert/src

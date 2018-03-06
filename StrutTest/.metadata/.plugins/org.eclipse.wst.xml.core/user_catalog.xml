@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <uri name="http://struts.apache.org/dtds/struts-config_1_2.dtd" uri="platform:/resource/DyanStrutTestAction/struts-config_1_2.dtd"/>
+</catalog>

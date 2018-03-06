@@ -1,0 +1,9 @@
+#Wed Jan 17 16:59:31 CST 2018
+SERVER_ENABLEMENT=true
+LIBRARY_PATH="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/bin\:/usr/local/apache-tomcat-8.0.48/bin"
+eclipse.preferences.version=1
+JDK_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home
+TOMCAT_BASE=/usr/local/apache-tomcat-8.0.48
+ENDORSED_DIRS="/usr/local/apache-tomcat-8.0.48/common/endorsed"
+TOMCAT_HOME=/usr/local/apache-tomcat-8.0.48
+TOMCAT_TEMP=/usr/local/apache-tomcat-8.0.48/temp

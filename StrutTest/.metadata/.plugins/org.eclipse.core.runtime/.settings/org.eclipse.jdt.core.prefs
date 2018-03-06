@@ -1,0 +1,8 @@
+#Mon Feb 05 01:34:01 CST 2018
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip
+eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.MYECLIPSE_LIB_HOME=/Applications/MyEclipse/Common/plugins/com.genuitec.eclipse.j2eedt.core_10.0.0.me201110301321/data/libraryset
+org.eclipse.jdt.core.userLibrary.spring=<?xml version\="1.0" encoding\="UTF-8"?>\n<userlibrary systemlibrary\="false" version\="2">\n\t<archive path\="/Users/mac/SSH/[www.java1234.com]\u52A8\u529B\u8282\u70B9_\u738B\u52C7Spring\u89C6\u9891\u6559\u7A0B/\u52A8\u529B\u8282\u70B9_\u738B\u52C7_JAVA\u89C6\u9891\u6559\u7A0B_Spring000_\u76F8\u5173\u8D44\u6599\u53CA\u6E90\u4EE3\u7801/\u8D44\u6599/spring-framework-2.0/dist/spring.jar"/>\n\t<archive path\="/Users/mac/SSH/[www.java1234.com]\u52A8\u529B\u8282\u70B9_\u738B\u52C7Spring\u89C6\u9891\u6559\u7A0B/\u52A8\u529B\u8282\u70B9_\u738B\u52C7_JAVA\u89C6\u9891\u6559\u7A0B_Spring000_\u76F8\u5173\u8D44\u6599\u53CA\u6E90\u4EE3\u7801/\u8D44\u6599/spring-framework-2.0/lib/log4j/log4j-1.2.14.jar"/>\n\t<archive path\="/Users/mac/SSH/[www.java1234.com]\u52A8\u529B\u8282\u70B9_\u738B\u52C7Spring\u89C6\u9891\u6559\u7A0B/\u52A8\u529B\u8282\u70B9_\u738B\u52C7_JAVA\u89C6\u9891\u6559\u7A0B_Spring000_\u76F8\u5173\u8D44\u6599\u53CA\u6E90\u4EE3\u7801/\u8D44\u6599/spring-framework-2.0/lib/jakarta-commons/commons-logging.jar"/>\n</userlibrary>\n
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled

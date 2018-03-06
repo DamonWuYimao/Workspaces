@@ -1,0 +1,23 @@
+#Sat Feb 03 17:56:12 CST 2018
+sourceHoverBackgroundColor=250,251,197
+content_assist_autoactivation_delay=400
+content_assist_proposals_foreground=0,0,0
+spelling_locale_initialized=true
+org.eclipse.jdt.ui.text.templates_migrated=true
+useAnnotationsPrefPage=true
+eclipse.preferences.version=1
+org.eclipse.jface.textfont=1|Monaco|11.0|0|COCOA|1|;
+tabWidthPropagated=true
+org.eclipse.jdt.ui.editor.tab.width=
+fontPropagated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.javadoclocations.migrated=true
+content_assist_autoactivation_triggers_java=abcdefghijklmnopqrstuvwxyz.
+proposalOrderMigrated=true
+content_assist_proposals_background=255,255,255
+org.eclipse.jdt.ui.formatterprofiles.version=12
+content_assist_number_of_computers=17
+useQuickDiffPrefPage=true
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="org.apache.struts.action.ActionForm"><rhs name\="org.test.struts.LoginActionForm"/><rhs name\="org.apache.struts.action.DynaActionForm"/><rhs name\="org.test.strut.UploadActionForm"/><rhs name\="org.test.strut.StrutConvertActionForm"/></lhs><lhs name\="org.test.struts.LoginActionForm"><rhs name\="org.test.struts.LoginActionForm"/></lhs><lhs name\="org.apache.commons.beanutils.DynaBean"><rhs name\="org.apache.struts.action.DynaActionForm"/></lhs><lhs name\="org.apache.struts.action.DynaActionForm"><rhs name\="org.apache.struts.action.DynaActionForm"/></lhs><lhs name\="org.test.strut.UploadActionForm"><rhs name\="org.test.strut.UploadActionForm"/></lhs><lhs name\="java.io.OutputStream"><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="java.io.Flushable"><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="java.io.FileOutputStream"><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="org.test.strut.StrutConvertActionForm"><rhs name\="org.test.strut.StrutConvertActionForm"/></lhs></history>
+org.eclipse.jdt.ui.text.code_templates_migrated=true

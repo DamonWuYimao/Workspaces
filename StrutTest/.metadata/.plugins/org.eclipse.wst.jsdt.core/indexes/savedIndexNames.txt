@@ -1,0 +1,13 @@
+INDEX VERSION 1.122+/Users/mac/Workspaces/StrutTest/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+4082029717.index
+3035793117.index
+3515957087.index
+984401847.index
+3039387561.index
+463203826.index
+1375605879.index
+32704278.index
+955331955.index
+2177752547.index
+4156538280.index
+2791495656.index

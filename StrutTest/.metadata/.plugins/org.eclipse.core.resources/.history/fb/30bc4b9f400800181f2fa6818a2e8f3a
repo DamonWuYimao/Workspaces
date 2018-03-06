@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<!DOCTYPE struts-config PUBLIC
+          "-//Apache Software Foundation//DTD Struts Configuration 1.2//EN"
+          "http://jakarta.apache.org/struts/dtds/struts-config_1_2.dtd">
+<struts-config>
+    
+    <form-beans>
+		<form-bean name="userForm" type="com.bjpowernode.drp.web.forms.UserActionForm"/>
+    </form-beans>
+    
+    <action-mappings>
+    	<action path="/user/user_maint"
+    			type="com.bjpowernode.drp.web.actions.UserAction"
+    			name="userForm"
+    			scope="request"
+    			parameter="command"
+    	>
+    	
+    		<!-- 
+    		<forward name="list_success" path="/user/user_list.jsp"/>
+    		<forward name="del_success" path="/user/user_maint.do?command=list" redirect="true"/>
+    		<forward name="add_success" path="/user/user_maint.do?command=list" redirect="true"/>
+    		<forward name="modify_success" path="/user/user_maint.do?command=list" redirect="true"/>
+    		<forward name="find_success" path="/user/user_modify.jsp"/>
+    		 -->
+    		 
+    		<forward name="list_success" path="/user/user_list.jsp"/>
+    		<forward name="del_success" path="/user/user_maint.do" redirect="true"/>
+    		<forward name="add_success" path="/user/user_maint.do" redirect="true"/>
+    		<forward name="modify_success" path="/user/user_maint.do" redirect="true"/>
+    		<forward name="find_success" path="/user/user_modify.jsp"/>
+    		 
+    	</action>
+    	<!-- 
+		<action 
+			path="/user/add"
+			type="com.bjpowernode.drp.web.actions.AddUserAction"
+			name="userForm"
+			scope="request"
+		>
+			<forward name="success" path="/user/list.do" redirect="true"/>
+		</action>
+		
+		<action 
+			path="/user/del"
+			type="com.bjpowernode.drp.web.actions.DelUserAction"
+			name="userForm"
+			scope="request"
+		>
+			<forward name="success" path="/user/list.do" redirect="true"/>
+		</action>
+	
+		<action 
+			path="/user/list"
+			type="com.bjpowernode.drp.web.actions.ListUserAction"
+			name="userForm"
+			scope="request"
+		>
+			<forward name="success" path="/user/user_list.jsp"/>
+		</action>
+		
+		<action 
+			path="/user/find"
+			type="com.bjpowernode.drp.web.actions.FindUserAction"
+			name="userForm"
+			scope="request"
+		>
+			<forward name="success" path="/user/user_modify.jsp"/>
+		</action>
+
+		<action 
+			path="/user/modify"
+			type="com.bjpowernode.drp.web.actions.ModifyUserAction"
+			name="userForm"
+			scope="request"
+		>
+			<forward name="success" path="/user/list.do" redirect="true"/>
+		</action>
+		 -->
+		 
+		<action path="/user/show_add"
+				forward="/user/user_input.jsp"
+		></action>
+
+    </action-mappings>
+    
+    <message-resources parameter="MessageResources" />
+    
+</struts-config>

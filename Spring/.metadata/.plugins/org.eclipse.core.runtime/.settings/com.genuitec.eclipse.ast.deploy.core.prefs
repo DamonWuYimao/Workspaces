@@ -1,0 +1,14 @@
+#Wed Feb 07 15:32:38 CST 2018
+myeclipseTomcatServer.Spring_first.isExploded=true
+myeclipseTomcatServer.Spring_first.shouldBackup=false
+myeclipseTomcatServer.Spring_first.IEARProjectName=
+myeclipseTomcatServer.Spring_first.isUptoDate=true
+myeclipseTomcatServer.Spring_first.isDeployed=true
+myeclipseTomcatServer.Spring_first.deployIsOverProject=false
+myeclipseTomcatServer.Spring_first.contextRoot=/Spring_first
+myeclipseTomcatServer.Spring_first.noFileCopy=false
+eclipse.preferences.version=1
+myeclipseTomcatServer.Spring_first.altContextRoot=/Spring_first
+myeclipseTomcatServer.Spring_first.type=WebDeployment
+myeclipseTomcatServer.Spring_first.deploymentPath=/Users/mac/Workspaces/Spring/.metadata/.me_tcat/webapps/Spring_first
+myeclipseTomcatServer.Spring_first.shouldOverwrite=false

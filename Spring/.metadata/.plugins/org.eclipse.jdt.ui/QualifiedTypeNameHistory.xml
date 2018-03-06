@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="org.spring.dao.UserDao"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.PRIVATE_MEMBER"/>
+<fullyQualifiedTypeName name="java.lang.Class"/>
+<fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.util.ClassPath"/>
+<fullyQualifiedTypeName name="com.sun.faces.util.Cache.Factory"/>
+<fullyQualifiedTypeName name="org.spring.manager.UserManager"/>
+<fullyQualifiedTypeName name="org.spring.manager.UserManagerImpl"/>
+<fullyQualifiedTypeName name="org.spring.dao.UserDao4mysql"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.BeanFactory"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.bind.v2.schemagen.xmlschema.List"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="com.sun.javafx.collections.MappingChange.Map"/>
+<fullyQualifiedTypeName name="org.apache.taglibs.standard.lang.jstl.test.Bean1"/>
+<fullyQualifiedTypeName name="org.spring.Bean1"/>
+<fullyQualifiedTypeName name="org.spring.Bean1Imp"/>
+</qualifiedTypeNameHistroy>

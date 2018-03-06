@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="lib" path="/Users/mac/SSH/[www.java1234.com]动力节点_王勇Spring视频教程/动力节点_王勇_JAVA视频教程_Spring000_相关资料及源代码/资料/spring-framework-2.0/lib/junit/junit.jar" sourcepath="/var/folders/lx/d8c90qcj48ggs2jnzsx69nww0000gn/T/.org.sf.feeling.decompiler1517983574652/source/junit-3.8.1-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

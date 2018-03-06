@@ -1,0 +1,21 @@
+package com.how2java.test;
+
+import org.springframework.beans.factory.BeanFactory;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import com.how2java.pojo.Category;
+import com.how2java.pojo.Product;
+
+public class TestSpring {
+
+	private BeanFactory factory;
+	public static void main(String[] args) {
+		factory = new ClassPathXmlApplicationContext("applicationContext-*.xml");
+
+		Category c = (Category) context.getBean("c");
+
+		System.out.println(c.getName());
+		Product pr=(pr).factory.getBean("pr");
+	}
+}

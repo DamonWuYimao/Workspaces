@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode&gt;&#x0A;&lt;infoNode&gt;=Spring_first/\/Users\/mac\/SSH\/\[www.java1234.com\]动力节点_王勇Spring视频教程\/动力节点_王勇_JAVA视频教程_Spring000_相关资料及源代码\/资料\/spring-framework-2.0\/lib\/log4j\/log4j-1.2.14.jar&amp;lt;org.apache.log4j.chainsaw(Main.class[Main&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=Spring_first/\/Users\/mac\/SSH\/\[www.java1234.com\]动力节点_王勇Spring视频教程\/动力节点_王勇_JAVA视频教程_Spring000_相关资料及源代码\/资料\/spring-framework-2.0\/lib\/log4j\/log4j-1.2.14.jar&amp;lt;org.apache.log4j.net(JMSSink.class[JMSSink&lt;/infoNode&gt;&#x0A;&lt;/historyRootNode&gt;&#x0A;&lt;/History&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="57" key="DIALOG_Y_ORIGIN"/>
+			<item value="76" key="DIALOG_X_ORIGIN"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="1|.SF NS Text|11.0|0|COCOA|1|.SFNSText-Regular" key="DIALOG_FONT_NAME"/>
+		</section>
+	</section>
+</section>

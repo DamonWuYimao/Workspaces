@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;WEB-INF&apos;&#x0A;- Original project: &apos;StrutsTest&apos;&#x0A;- Destination element: &apos;WEB-INF&apos;&#x0A;- Original elements:&#x0A;     struts-config.xml&#x0A;     web.xml" description="Copy files" element1="WebRoot/WEB-INF/struts-config.xml" element2="WebRoot/WEB-INF/web.xml" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1517668475614" target="/Strut_User/WebRoot/WEB-INF" units="0" version="1.0"/>
+</session>

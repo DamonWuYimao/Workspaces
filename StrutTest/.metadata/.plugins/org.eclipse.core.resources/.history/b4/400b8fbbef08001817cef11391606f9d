@@ -1,0 +1,12 @@
+package org.strut.actionform;
+
+import org.apache.struts.action.ActionForm;
+
+public class UserActionForm extends ActionForm {
+	private int user_id;
+	private String user_name;
+	private String user_pass;
+	private String user_total;
+	
+
+}

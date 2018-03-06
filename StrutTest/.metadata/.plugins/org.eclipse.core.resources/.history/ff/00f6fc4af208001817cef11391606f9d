@@ -1,0 +1,7 @@
+package org.strut.action;
+
+import org.apache.struts.action.Action;
+
+public class UserAction extends Action {
+
+}

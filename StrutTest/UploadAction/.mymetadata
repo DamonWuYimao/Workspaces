@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="UploadAction"
+  id="myeclipse.1516461368892"
+  context-root="/UploadAction"
+  j2ee-spec="6.0"
+  archive="UploadAction.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.test.struts.LoginActionForm"/>
+<fullyQualifiedTypeName name="org.apache.struts.action.DynaActionForm"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="org.test.strut.UploadActionForm"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="org.apache.struts.upload.FormFile"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="org.test.strut.StrutConvertActionForm"/>
+<fullyQualifiedTypeName name="org.strut.actionform.UserActionForm"/>
+</qualifiedTypeNameHistroy>

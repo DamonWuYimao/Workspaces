@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Strut_User"
+  id="myeclipse.1517667625885"
+  context-root="/Strut_User"
+  j2ee-spec="6.0"
+  archive="Strut_User.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

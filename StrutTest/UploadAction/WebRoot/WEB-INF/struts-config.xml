@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<!DOCTYPE struts-config PUBLIC
+          "-//Apache Software Foundation//DTD Struts Configuration 1.2//EN"
+          "http://jakarta.apache.org/struts/dtds/struts-config_1_2.dtd">
+
+
+
+
+<struts-config>
+   
+   <form-beans>
+     <form-bean name="uplodaform" type="org.test.strut.UploadActionForm">
+     </form-bean>
+     <form-bean name="convert" type="org.test.strut.StrutConvertActionForm">
+     </form-bean>
+   </form-beans>
+   <action-mappings>
+   <action 
+           path="/upload"
+           type="org.test.strut.UploadTestAction"
+           name="uplodaform"
+           scope="request">
+           <forward name="success" path="/upload_success.jsp"/>
+           <forward name="error" path="/upload_error.jsp"/>
+</action>     
+   <action path="/convert"
+           type="org.test.strut.StrutConvertAction"
+           name="convert"
+           scope="request"             
+                        >
+           <forward name="success" path="/t_success.jsp"/>
+     </action>
+
+   </action-mappings>
+</struts-config>
+

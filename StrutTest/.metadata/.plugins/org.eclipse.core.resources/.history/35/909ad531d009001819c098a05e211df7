@@ -1,0 +1,26 @@
+package com.bjpowernode.spring.client;
+
+import org.springframework.beans.factory.BeanFactory;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import com.bjpowernode.spring.dao.UserDao4MySqlImpl;
+import com.bjpowernode.spring.manager.UserManager;
+import com.bjpowernode.spring.manager.UserManagerImpl;
+
+public class Client {
+
+	public static void main(String[] args) {
+		
+		BeanFactory factory = new ClassPathXmlApplicationContext("applicationContext.xml");
+		
+		//ApplicationContext factory = new ClassPathXmlApplicationContext("applicationContext.xml");
+		
+		UserManager userManager = (UserManager)factory.getBean("userManager");
+		
+		UserManager userManager = new UserManagerImpl(new UserDao4MySqlImpl());
+		
+		userManager.addUser("ÕÅÈý", "123");
+	}
+
+}

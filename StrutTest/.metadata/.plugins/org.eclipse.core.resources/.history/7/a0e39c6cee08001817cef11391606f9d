@@ -1,0 +1,5 @@
+package org.strut.dao;
+
+public class DBUtil {
+
+}
